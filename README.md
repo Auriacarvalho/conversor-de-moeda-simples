@@ -18,16 +18,17 @@ Uma aplicação que converte valores entre diferentes moedas utilizando uma API 
 ## Como Usar
 
 1. **Clone o repositório**:
+2. 
 
     ```bash
     git clone https://github.com/seu-usuario/currency-converter.git
     cd currency-converter
     ```
 
-2. **Abrir o arquivo `index.html` no navegador**:
+3. **Abrir o arquivo `index.html` no navegador**:
    Após clonar o repositório, abra o arquivo `index.html` diretamente em um navegador da sua escolha.
 
-3. **Usar a aplicação**:
+4. **Usar a aplicação**:
    - Insira um valor a ser convertido.
    - Selecione a moeda de origem e a moeda de destino.
    - Clique em "Converter".
